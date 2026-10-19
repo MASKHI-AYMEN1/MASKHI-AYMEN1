@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Aymen Maskhi
 
-### 🚀 Backend Developer | C# • .NET • ASP.NET Core
+### 🚀 Fullstack Developer | C# • .NET • React Js
 
 <img align="right" alt="Coding animation" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a software developer passionate about building **robust, scalable, and maintainable backend applications** using the .NET ecosystem.
+I'm a software developer passionate about building **robust, scalable, and maintainable applications** using the .NET and React Js ecosystems.
 
 I enjoy designing clean APIs, implementing reliable business logic, optimizing database performance, and applying software engineering best practices to real-world problems.
 
